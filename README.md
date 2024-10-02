@@ -12,4 +12,4 @@ Please have the project loaded and ready to go in Android Studio at the start of
 
 This is a code review exercise, not a coding exercise, so please **do not edit** the code prior to the interview. You are encouraged to familiarise yourself with the code, however.
 
-For context, the code in this respository was one candidate's response to a take-home coding challenge for a job application. [Click here to view the original requirements.](https://github.com/Medibank/coding-challenge-android/tree/21e563cf199cdc025194b1ca05e4ca61b3ce82d4)
+For context, the code in this repository was one candidate's response to a take-home coding challenge for a job application. [Click here to view the original requirements.](https://github.com/Medibank/coding-challenge-android/tree/21e563cf199cdc025194b1ca05e4ca61b3ce82d4)
